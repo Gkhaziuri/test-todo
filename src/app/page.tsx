@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>To-Do List</title>
+        <title>ToDo List</title>
       </Head>
       <main>
         <SortableTodoList />
